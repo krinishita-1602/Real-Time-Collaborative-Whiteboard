@@ -1,4 +1,4 @@
-# Task 4 : Real-Time Collaborative Whiteboard
+# Real-Time Collaborative Whiteboard
 
 ## Overview
 The Whiteboard Project aims to create a digital whiteboard application that allows users to collaborate in real-time, share ideas, and brainstorm effectively.
